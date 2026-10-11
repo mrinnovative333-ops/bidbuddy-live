@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://mrinnovative333-ops.github.io/bidbuddy-live/sitemap.xml
